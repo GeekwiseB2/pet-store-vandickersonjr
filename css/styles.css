@@ -44,3 +44,8 @@
 .border {
   border-left: 1px solid #505050;
 }
+
+.shadow {
+  box-shadow: 1px 4px 4px 1px #505050;
+  margin-top: 1em;
+}
